@@ -1,4 +1,6 @@
 # Systems Analysis and Design Course Project
+**Sharif University of Technology**
+
 **Fall 2022**
 
 ## Team Members
@@ -10,4 +12,10 @@
 - Mana Peiravian
 
 ## Scrum Board
-[Jira](https://sad-project.atlassian.net/jira/software/projects/SAD/boards/1)
+[Jira](https://sad-project.atlassian.net/browse/SADP-3)
+
+## Repositories Status
+| Repository | Status |
+| - | :-: |
+| sad-project | [![Django CI](https://github.com/sad-project/sad-project/actions/workflows/django.yml/badge.svg)](https://github.com/sad-project/sad-project/actions/workflows/django.yml) |
+| sad-project-documentations | [![Docs to PDF](https://github.com/sad-project/sad-project-documentation/actions/workflows/pdf-publish.yml/badge.svg)](https://github.com/sad-project/sad-project-documentation/actions/workflows/pdf-publish.yml) |
